@@ -1,0 +1,7 @@
+"capitalistrp"
+{
+	"base"		"base"
+	"title"		"Capitalist RP"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+}
