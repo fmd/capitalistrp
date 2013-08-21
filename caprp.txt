@@ -1,0 +1,12 @@
+"caprp"
+{
+	"base"		"nutscript"
+	"title"		"Capitalist RP"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
